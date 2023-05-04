@@ -1,4 +1,4 @@
-![image](..\..\img\p8s.png)
+![image](../../img/p8s.png)
 
 High Concept 1
 
