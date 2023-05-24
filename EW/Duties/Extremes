@@ -1,0 +1,4 @@
+Voidcast Dais Extreme
+```
+~Lv2~{"Name":"Voidcast Dais Extreme","Group":"","ZoneLockH":[1141],"ElementsL":[{"Name":"Phases Front AoE","type":3,"refY":30.0,"radius":30.0,"color":1677721855,"refActorNPCNameID":12365,"refActorRequireCast":true,"refActorCastId":[34523,34524,34525,34545,34546,34534,34535,34536,34537,34542,34543],"refActorUseCastTime":true,"refActorCastTimeMax":6.0,"refActorUseOvercast":true,"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true},{"Name":"Phases Back AoE","type":3,"refY":-30.0,"radius":30.0,"color":1677721855,"refActorNPCNameID":12365,"refActorRequireCast":true,"refActorCastId":[34523,34524,34525,34545,34546,34534,34535,34536,34537,34542,34543],"refActorUseCastTime":true,"refActorCastTimeMin":6.0,"refActorCastTimeMax":9.0,"refActorUseOvercast":true,"refActorComparisonType":6,"includeRotation":true,"onlyTargetable":true}]}
+```
